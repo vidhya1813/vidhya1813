@@ -95,36 +95,4 @@ An AI chatbot application focused on exploring **conversational AI and LLM-power
 🔹 Chat-based interfaces  
 🔹 AI application development  
 
----
-
-## 🗺️ Career Roadmap
-
-```text
-🎓 B.Tech Information Technology
-            │
-            ▼
-💻 Programming
-C • Python • JavaScript • C++
-            │
-            ▼
-🌐 Web Development
-            │
-            ▼
-🎨 UI/UX Design
-        + Figma
-            │
-            ▼
-💻 Full Stack Development
-            │
-            ▼
-🤖 Artificial Intelligence
-            │
-            ▼
-🧩 AI Agents + LLMs
-            │
-            ▼
-🚀 Software Engineer
-            │
-            ▼
-🤖 AI Professional
 
