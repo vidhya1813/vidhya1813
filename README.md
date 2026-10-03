@@ -1,88 +1,80 @@
-# 👋 Hi there, I'm Vidhya MK! 🚀
+# 👋 Hi, I'm Vidhya MK
 
-### 🎓 B.Tech IT Student | 💻 Full Stack Developer in Progress | 🎨 UI/UX Enthusiast | 🤖 AI Explorer
+### 🎓 B.Tech IT Student | 💻 Aspiring Full Stack Developer | 🎨 UI/UX Enthusiast | 🤖 AI Explorer
 
-[![GitHub](https://img.shields.io/badge/GitHub-vidhya1813-181717?style=for-the-badge&logo=github)](https://github.com/vidhya1813)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vidhya%20MK-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vidhya-murugan-a8531543a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Vidhya__Murugan-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Vidhya_Murugan/)
+I'm a B.Tech Information Technology student passionate about building things that combine **technology, creativity, design, and Artificial Intelligence**.
 
----
+I’m currently exploring **Full Stack Development, UI/UX, AI Agents, and Large Language Models**, while strengthening my programming skills in **C, Python, JavaScript, and C++**.
 
-## 👩‍💻 About Me
+My goal is to grow into a **Full Stack Developer and Software Engineer**, while eventually building a career in **Artificial Intelligence**.
 
-🎓 I'm a **B.Tech Information Technology student** who loves exploring the intersection of **technology, creativity, design, and Artificial Intelligence**.
+I enjoy turning ideas into real projects, experimenting with new technologies, designing better user experiences, and learning through hands-on development.
 
-💻 I'm working towards becoming a **Full Stack Developer and Software Engineer**, while developing a strong interest in **AI and AI Agents**.
-
-🎨 I enjoy creating clean, creative, and user-friendly interfaces and I'm currently exploring **UI/UX design with Figma**.
-
-🤖 My long-term goal is to work in **Artificial Intelligence** and build intelligent solutions that can solve real-world problems.
-
-🚀 I believe the best way to learn technology is to **build, experiment, make mistakes, and keep improving**.
-
-😄 Sometimes I start with a simple idea and somehow end up thinking, **"What if I add AI to this?"** 🤖😂
+> **I don't just want to use technology. I want to understand it, build with it, and create something meaningful. 🚀**
 
 ---
 
 ## 🧠 What I'm Interested In
 
-- 🤖 Artificial Intelligence
-- 🧩 AI Agents
-- 🧠 Large Language Models
-- 🎨 UI/UX Design
-- 🌐 Web Development
-- 💻 Full Stack Development
-- 🚀 Software Engineering
-- 💡 Creative Problem Solving
+🤖 Artificial Intelligence  
+🧩 AI Agents  
+🧠 Large Language Models  
+🎨 UI/UX Design  
+🌐 Web Development  
+💻 Full Stack Development  
+🚀 Software Engineering  
+💡 Creative Problem Solving  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technologies & Tools
 
-### 💻 Programming Languages
+### 💻 Programming
+- C
+- Python
+- JavaScript
+- C++
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🎨 UI/UX & Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🎨 Design
+- Figma
+- UI/UX Design
 
 ### 🔧 Tools
+- Git
+- GitHub
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🖥️ Environment
+- Windows
 
-### 🖥️ Operating System
-
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+I'm continuously improving my programming skills and exploring how these technologies can be combined to build useful applications.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🤖 AI Health Agent
 
-An AI-powered health agent application exploring the use of **LLMs and AI Agents** to create intelligent and interactive experiences.
+An AI-powered application exploring the use of **LLMs and AI Agents** to create intelligent and interactive experiences.
 
-🔹 LLM-powered application  
-🔹 AI Agent concepts  
-🔹 Intelligent interactions  
-🔹 Exploring real-world AI applications  
+The project focuses on understanding how an LLM can act as the foundation for an AI Agent and how intelligent workflows can be created around it.
+
+**Exploring:**
+- AI Agents
+- LLM-based applications
+- Intelligent interactions
+- Real-world AI applications
 
 ---
 
 ### ♟️ Chess Game Application
 
-A chess game application created to explore programming logic, interactive applications, and problem solving.
+A chess game application created to explore programming logic, application development, problem solving, and interactive user experiences.
 
-🔹 Game logic  
-🔹 Problem solving  
-🔹 Application development  
-🔹 Interactive user experience  
+**Exploring:**
+- Game logic
+- Problem solving
+- Application development
+- User interaction
 
 ---
 
@@ -90,24 +82,144 @@ A chess game application created to explore programming logic, interactive appli
 
 An AI chatbot application focused on exploring **conversational AI and LLM-powered interactions**.
 
-🔹 Conversational AI  
-🔹 Large Language Models  
-🔹 Chat-based interfaces  
-🔹 AI application development  
+**Exploring:**
+- Conversational AI
+- Large Language Models
+- Chat interfaces
+- AI application development
 
-🎯 Current Goals  
+---
 
- Start my programming journey
- Explore UI/UX
- Start building projects
- Explore AI applications
- Learn about AI Agents
- Improve Python
- Improve JavaScript
- Improve C++
- Strengthen Full Stack Development
- Build more AI-powered applications
- Participate in hackathons
- Build real-world AI solutions
- Become a Software Engineer
- Build a career in AI
+### 📚 Study Flow
+
+A student-focused application concept designed to make studying more **organized, focused, and personalized**.
+
+The idea brings together:
+
+- 📅 Exam timetable management
+- 📖 Syllabus and portion organization
+- 📚 Books and study materials
+- ⏱️ Focus study sessions
+- 🔔 Exam-date notifications
+- 📝 Topic-based assignments
+- 🧪 Unit-wide tests
+- 🤖 AI-powered assistance
+- 💡 Personalized learning support
+
+The project explores how **one LLM can be used as the foundation for creating AI Agents** that support different parts of a student's learning experience.
+
+---
+
+## 🌱 Currently Learning
+
+### 🤖 AI Agents & LLMs
+
+I'm exploring how **Large Language Models can be used as the foundation of AI Agents** and how these agents can be designed to perform useful tasks and workflows.
+
+### 🎨 UI/UX
+
+I'm learning how to design interfaces that are:
+
+- Simple
+- Creative
+- Intuitive
+- User-friendly
+- Visually engaging
+
+I'm using **Figma** to improve my understanding of interface design and user experience.
+
+### 🌐 Web Development
+
+I'm continuously improving my web development skills and working towards becoming a **Full Stack Developer**.
+
+---
+
+## 🎯 My Career Goals
+
+My current journey looks something like this:
+
+**B.Tech IT → Programming → Web Development → UI/UX → Full Stack Development → AI Agents → Artificial Intelligence → Software Engineering**
+
+### My Goals
+
+- 📚 Strengthen my programming fundamentals
+- 💻 Become a strong Full Stack Developer
+- 🎨 Improve my UI/UX skills
+- 🤖 Build practical AI applications
+- 🧩 Develop more AI Agent projects
+- 🧠 Understand LLM-based systems
+- 🚀 Participate in hackathons
+- 💡 Build solutions for real-world problems
+- 👨‍💻 Become a Software Engineer
+- 🤖 Build a career in Artificial Intelligence
+
+---
+
+## 📜 Certification
+
+### 🛰️ Fundamentals of Remote Sensing — NASA
+
+Completed the **Fundamentals of Remote Sensing** certification from NASA.
+
+---
+
+## 🏆 What's Coming Next?
+
+I'm still building my journey.
+
+🏆 Hackathons — Coming Soon  
+🚀 More Projects — Coming Soon  
+🤖 More AI Experiments — In Progress  
+🎨 More UI/UX Designs — In Progress  
+💡 More Ideas — Always  
+
+---
+
+## 💭 Ask Me About
+
+💻 Frontend Development  
+🎨 UI/UX & Figma  
+🤖 AI Agents  
+🧠 LLM Applications  
+🌐 Web Development  
+🚀 Student Projects  
+
+---
+
+## ⚡ A Little About Me
+
+I'm curious about how things work and I enjoy experimenting with ideas.
+
+Sometimes I start with a simple project...
+
+and then my brain goes:
+
+> **"What if I add AI to this?" 🤖😂**
+
+That's one of the reasons I'm especially interested in the combination of **AI + Design + Software Development**.
+
+I believe that building something is one of the best ways to learn.
+
+So my approach is simple:
+
+**Learn → Build → Experiment → Fail → Improve → Repeat.**
+
+---
+
+## 🧩 My Developer Philosophy
+
+```text
+       💡 IDEA
+          ↓
+      🎨 DESIGN
+          ↓
+      💻 BUILD
+          ↓
+      🐛 DEBUG
+          ↓
+      📚 LEARN
+          ↓
+      🚀 IMPROVE
+          ↓
+        REPEAT
+
