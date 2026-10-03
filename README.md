@@ -2,6 +2,10 @@
 
 ### 🎓 B.Tech IT Student | 💻 Aspiring Full Stack Developer | 🎨 UI/UX Enthusiast | 🤖 AI Explorer
 
+[![GitHub](https://img.shields.io/badge/GitHub-vidhya1813-181717?style=for-the-badge&logo=github)](https://github.com/vidhya1813)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vidhya%20MK-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vidhya-murugan-a8531543a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Vidhya__Murugan-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Vidhya_Murugan/)
+
 I'm a B.Tech Information Technology student passionate about building things that combine **technology, creativity, design, and Artificial Intelligence**.
 
 I’m currently exploring **Full Stack Development, UI/UX, AI Agents, and Large Language Models**, while strengthening my programming skills in **C, Python, JavaScript, and C++**.
@@ -87,26 +91,6 @@ An AI chatbot application focused on exploring **conversational AI and LLM-power
 - Large Language Models
 - Chat interfaces
 - AI application development
-
----
-
-### 📚 Study Flow
-
-A student-focused application concept designed to make studying more **organized, focused, and personalized**.
-
-The idea brings together:
-
-- 📅 Exam timetable management
-- 📖 Syllabus and portion organization
-- 📚 Books and study materials
-- ⏱️ Focus study sessions
-- 🔔 Exam-date notifications
-- 📝 Topic-based assignments
-- 🧪 Unit-wide tests
-- 🤖 AI-powered assistance
-- 💡 Personalized learning support
-
-The project explores how **one LLM can be used as the foundation for creating AI Agents** that support different parts of a student's learning experience.
 
 ---
 
