@@ -95,4 +95,19 @@ An AI chatbot application focused on exploring **conversational AI and LLM-power
 🔹 Chat-based interfaces  
 🔹 AI application development  
 
+🎯 Current Goals  
 
+ Start my programming journey
+ Explore UI/UX
+ Start building projects
+ Explore AI applications
+ Learn about AI Agents
+ Improve Python
+ Improve JavaScript
+ Improve C++
+ Strengthen Full Stack Development
+ Build more AI-powered applications
+ Participate in hackathons
+ Build real-world AI solutions
+ Become a Software Engineer
+ Build a career in AI
