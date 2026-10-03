@@ -128,7 +128,10 @@ C • Python • JavaScript • C++
             ▼
 🤖 AI Professional
 
+
+
 🎯 Current Goals
+
  Start my programming journey
  Explore UI/UX
  Start building projects
@@ -143,7 +146,10 @@ C • Python • JavaScript • C++
  Build real-world AI solutions
  Become a Software Engineer
  Build a career in AI
+
+
 📜 Certifications
+
 🛰️ Fundamentals of Remote Sensing — NASA
 
 Completed the Fundamentals of Remote Sensing certification from NASA.
