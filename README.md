@@ -69,7 +69,6 @@ A chess game application created to explore programming logic, application devel
 
 ---
 
-
 ## 🌱 Currently Learning
 
 ### 🤖 AI Agents & LLMs
