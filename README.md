@@ -56,19 +56,6 @@ I'm continuously improving my programming skills and exploring how these technol
 
 ## 🚀 Projects
 
-### 🤖 AI Health Agent
-
-An AI-powered application exploring the use of **LLMs and AI Agents** to create intelligent and interactive experiences.
-
-The project focuses on understanding how an LLM can act as the foundation for an AI Agent and how intelligent workflows can be created around it.
-
-**Exploring:**
-- AI Agents
-- LLM-based applications
-- Intelligent interactions
-- Real-world AI applications
-
----
 
 ### ♟️ Chess Game Application
 
@@ -82,17 +69,6 @@ A chess game application created to explore programming logic, application devel
 
 ---
 
-### 💬 AI Chatbot
-
-An AI chatbot application focused on exploring **conversational AI and LLM-powered interactions**.
-
-**Exploring:**
-- Conversational AI
-- Large Language Models
-- Chat interfaces
-- AI application development
-
----
 
 ## 🌱 Currently Learning
 
